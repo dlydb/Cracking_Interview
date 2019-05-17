@@ -6,5 +6,3 @@ def is_unique(str):
         else:
             a_set.add(chr)
     return True
-
-print (is_unique())
