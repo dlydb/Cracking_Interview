@@ -5,7 +5,6 @@ def is_unique(str):
             return False
         else:
             a_set.add(chr)
-            
     return True
 
 print (is_unique())
