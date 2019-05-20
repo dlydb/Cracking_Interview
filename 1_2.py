@@ -16,4 +16,4 @@ def check_permutation(str1, str2):
                 return False
     return True
 
-print(check_permutation("god", "dog"))
+print(check_permutation("goooopd", "dopooog"))
